@@ -12,6 +12,10 @@
 Проект выполнен в рамках соревнования Kaggle: Signal Types Classification
 https://www.kaggle.com/competitions/signal-types-classification
 
+
+# Просмотр проекта
+Ноутбук project.ipynb
+
 # Научная и практическая значимость
 Сцинтилляционные детекторы широко используются:
 - в ядерной энергетике;
@@ -67,11 +71,12 @@ https://www.kaggle.com/competitions/signal-types-classification
 - о смешанных импульсах;
 - о нестандартной физической природе сигнала.
 
+```
 Структура проекта
 ├── data/                  # исходные данные
 ├── project.ipynb          # Проект
 ├── README.md
-
+```
 
 # Основные этапы работы
 1. Исследовательский анализ данных (EDA)
